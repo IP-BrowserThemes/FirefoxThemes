@@ -1,0 +1,24 @@
+{
+    "name": "Into The Black Hole - True Amoled Black Theme",
+    "version": "1.0.1",
+    "description": "True Black Theme, easy for the eyes, fitted for any type of display, but especially for Amoled screens",
+    "manifest_version": 2,
+    "theme": {
+        "colors": {
+            "toolbar": "rgb(0, 0, 0)",
+            "toolbar_text": "rgb(255, 255, 255)",
+            "frame": "rgb(0, 0, 0)",
+            "frame_inactive": "rgb(0, 0, 0)",
+            "tab_background_text": "rgb(255, 255, 255)",
+            "toolbar_field": "rgb(0, 0, 0)",
+            "toolbar_field_text": "rgb(255, 255, 255)",
+            "tab_line": "rgb(0, 249, 255)",
+            "popup": "rgb(0, 0, 0)",
+            "popup_text": "rgb(255, 255, 255)",
+            "tab_loading": "rgb(0, 249, 255)",
+            "ntp_background": "rgb(0, 0, 0)",
+            "ntp_text": "rgb(255, 255, 2)",
+            "ntp_link": "rgb(255, 255, 2)"
+        }
+    }
+}
