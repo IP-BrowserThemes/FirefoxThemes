@@ -5,6 +5,7 @@
     "manifest_version": 2,
     "theme": {
         "colors": {
+            "sidebar": "rgb(0, 0, 0)",
             "toolbar": "rgb(0, 0, 0)",
             "toolbar_text": "rgb(255, 255, 255)",
             "frame": "rgb(0, 0, 0)",
